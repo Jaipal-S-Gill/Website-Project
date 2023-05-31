@@ -1,0 +1,53 @@
+html {
+  background-color: darkcyan;
+}
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #8400ff;
+  width: 555px;
+  margin: 12px auto;
+  padding: 24px 42px;
+  border-radius: 50px;
+  border-color: black;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  font-family: fantasy;
+  font-weight: lighter;
+  font-size: 30px;
+  color: rgb(255, 255, 255), 100;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+}
+
+a {
+  color: rgb(43, 168, 226);
+}
+
+a:hover {
+  color: chartreuse;
+}
+.output1 {
+  color: red;
+}
+
+.output2 {
+  color: red;
+}
+.output3 {
+  color: red;
+}
+.output4 {
+  color: red;
+}
+.btn1 {
+  size: 200px;
+}
